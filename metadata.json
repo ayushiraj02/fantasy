@@ -1,0 +1,7 @@
+{
+  "name": "Fantasy Character Creator",
+  "description": "Generate unique fantasy player cards with portraits, names, classes, backstories, Health, Mana, and Strength stats, and save cards to your custom deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
